@@ -2,11 +2,6 @@
 <search>
   <entry>
     <title><![CDATA[linux学习01]]></title>
-    <url>%2F2019%2F08%2F01%2Flinux%E5%AD%A6%E4%B9%A001-1%2F</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[linux学习01]]></title>
     <url>%2F2019%2F07%2F31%2Flinux%E5%AD%A6%E4%B9%A001%2F</url>
     <content type="text"><![CDATA[Learn Linux on the 01 day 为了曾经的一己执念，风雨兼程只顾心中的你。 Linux初体验初次接触Linux的时候可能会因为和Windows操作系统图形界面的差别感觉有些不适，Linux的终端界面显得个更加Geek。相较于Windows的界面Linux的视窗界面显得更为简单一点，但显示内容也有许多相似的地方，单就视窗界面而言熟悉Windows的同学操作起来问题不会太大。但是Linux的应用场景和精华所在应该都在终端窗口的操作界面上。 安装配置在Windows10上学Linux首先要先安装虚拟机，这里先安装虚拟机VMware，然后安装centOS6.8操作系统。安装方法和流程网上都可以看到，没什么难度。后面的配置和网络连接的设置可能要注意下，避免后期使用时出现一些低端的失误造成一些不必要的麻烦。 远程控制Linux的远程控制使用的软件这里介绍两款，Xshell和Xftp。Xshell主要是进行远程的一些Linux的终端命令操作，不能进行文件的上传和下载。而Xftp不能进行命令操作但是可以进行本地文件和远端服务器的上传、下载。 总结勤思考、善总结，关键还要做大量的操作练习。Linux可能是一个入门的技能，但想在有限的时间内学好还是要花较多心思的，注意活学活用多总结。]]></content>
       <tags>
